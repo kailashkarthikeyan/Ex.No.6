@@ -1,17 +1,16 @@
 # Ex.No.6 Development of Python Code Compatible with Multiple AI Tools
 
-# Register no.212222060101
-# Aim: 
+## Aim: 
 Write and implement Python code that integrates with multiple AI tools to automate the task of interacting with APIs, comparing outputs, and generating actionable insights with Multiple AI Tools
 
 #AI Tools Required:
 
-# Explanation:
+## Explanation:
 Experiment the persona pattern as a programmer for any specific applications related with your interesting area. 
 Generate the outoput using more than one AI tool and based on the code generation analyse and discussing that. 
 
-# Conclusion:
-# Step-by-Step Explanation:
+## Conclusion:
+## Step-by-Step Explanation:
 Setup API Clients: Configure access to OpenAI and Gemini using API keys.
 
 Query AI Models: Send a prompt to both models and retrieve responses.
@@ -100,7 +99,7 @@ if __name__ == "__main__":
     print("Gemini Keywords:", results["analysis"]["gemini_keywords"])
     print("Recommendation:", results["analysis"]["recommendation"])
 ````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
-# Code Analysis and Discussion:
+## Code Analysis and Discussion:
 API Integration:
 
 OpenAI: Uses chat completion API with GPT-3.5-turbo
@@ -133,7 +132,7 @@ Keyword analysis reveals content focus areas
 
 Recommendations suggest next steps based on agreement level
 
-# Example Output:
+## Example Output:
 ````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
 OpenAI Response:
  AI in healthcare will revolutionize diagnostics through advanced imaging analysis... 
@@ -148,5 +147,5 @@ Gemini Keywords: ['personalized', 'treatment', 'predictive']
 Recommendation: High agreement - Suitable for consistent outputs
 ````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
 
-# Result: 
+## Result: 
 The corresponding Prompt is executed successfully.
