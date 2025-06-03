@@ -1,7 +1,8 @@
 # Ex.No.6 Development of Python Code Compatible with Multiple AI Tools
 
 # Register no.212222060101
-# Aim: Write and implement Python code that integrates with multiple AI tools to automate the task of interacting with APIs, comparing outputs, and generating actionable insights with Multiple AI Tools
+# Aim: 
+Write and implement Python code that integrates with multiple AI tools to automate the task of interacting with APIs, comparing outputs, and generating actionable insights with Multiple AI Tools
 
 #AI Tools Required:
 
@@ -147,4 +148,5 @@ Gemini Keywords: ['personalized', 'treatment', 'predictive']
 Recommendation: High agreement - Suitable for consistent outputs
 ````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
 
-# Result: The corresponding Prompt is executed successfully.
+# Result: 
+The corresponding Prompt is executed successfully.
